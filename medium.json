@@ -1,0 +1,124 @@
+{
+  "medium": [
+    {
+      "id": "1",
+      "title": "Mastering React in 2025",
+      "author": "Jane Doe",
+      "profile": "https://medium.com/@janedoe",
+      "avatar": "https://i.pravatar.cc/64?img=1",
+      "published": "2025-07-14",
+      "reading_time": "5 min read",
+      "tags": ["React", "Frontend", "JavaScript"],
+      "description": "A complete guide to mastering React for modern web development.",
+      "url": "https://medium.com/@janedoe/mastering-react-in-2025"
+    },
+    {
+      "id": "2",
+      "title": "Building a Blog with Vite and TailwindCSS",
+      "author": "John Smith",
+      "profile": "https://medium.com/@johnsmith",
+      "avatar": "https://i.pravatar.cc/64?img=2",
+      "published": "2025-07-12",
+      "reading_time": "7 min read",
+      "tags": ["Blog", "Tailwind", "Vite"],
+      "description": "Step-by-step guide to create a modern blog frontend.",
+      "url": "https://medium.com/@johnsmith/vite-tailwind-blog"
+    },
+    {
+      "id": "3",
+      "title": "Top 10 VS Code Extensions for Web Devs",
+      "author": "Amara Khan",
+      "profile": "https://medium.com/@amarak",
+      "avatar": "https://i.pravatar.cc/64?img=3",
+      "published": "2025-06-30",
+      "reading_time": "6 min read",
+      "tags": ["VS Code", "Productivity", "Tools"],
+      "description": "Boost your workflow with these must-have VS Code extensions.",
+      "url": "https://medium.com/@amarak/vscode-extensions"
+    },
+    {
+      "id": "4",
+      "title": "Getting Started with TypeScript",
+      "author": "Leo Martins",
+      "profile": "https://medium.com/@leomartins",
+      "avatar": "https://i.pravatar.cc/64?img=4",
+      "published": "2025-07-01",
+      "reading_time": "4 min read",
+      "tags": ["TypeScript", "JavaScript"],
+      "description": "Beginner's guide to adding types to your JavaScript code.",
+      "url": "https://medium.com/@leomartins/typescript-guide"
+    },
+    {
+      "id": "5",
+      "title": "Why Tailwind is Still the Best in 2025",
+      "author": "Nora Lin",
+      "profile": "https://medium.com/@noralin",
+      "avatar": "https://i.pravatar.cc/64?img=5",
+      "published": "2025-06-25",
+      "reading_time": "5 min read",
+      "tags": ["TailwindCSS", "CSS", "Design Systems"],
+      "description": "Tailwind's utility-first approach remains unmatched in modern design.",
+      "url": "https://medium.com/@noralin/tailwind-2025"
+    },
+    {
+      "id": "6",
+      "title": "Understanding React Context API",
+      "author": "Paul Kim",
+      "profile": "https://medium.com/@paulkim",
+      "avatar": "https://i.pravatar.cc/64?img=6",
+      "published": "2025-07-10",
+      "reading_time": "8 min read",
+      "tags": ["React", "State Management"],
+      "description": "Simplify your state logic with Context API in React.",
+      "url": "https://medium.com/@paulkim/context-api-react"
+    },
+    {
+      "id": "7",
+      "title": "Next.js 14: What’s New?",
+      "author": "Ayesha Patel",
+      "profile": "https://medium.com/@ayeshapatel",
+      "avatar": "https://i.pravatar.cc/64?img=7",
+      "published": "2025-07-02",
+      "reading_time": "6 min read",
+      "tags": ["Next.js", "React", "SSR"],
+      "description": "All the new features in the latest release of Next.js.",
+      "url": "https://medium.com/@ayeshapatel/nextjs-14-features"
+    },
+    {
+      "id": "8",
+      "title": "Dark Mode with CSS Variables",
+      "author": "Daniel Wu",
+      "profile": "https://medium.com/@danielwu",
+      "avatar": "https://i.pravatar.cc/64?img=8",
+      "published": "2025-06-28",
+      "reading_time": "3 min read",
+      "tags": ["CSS", "Dark Mode"],
+      "description": "Use custom properties to build a themeable dark mode.",
+      "url": "https://medium.com/@danielwu/dark-mode-css"
+    },
+    {
+      "id": "9",
+      "title": "Responsive Design: Grid vs Flexbox",
+      "author": "Fatima Zahra",
+      "profile": "https://medium.com/@fatimaz",
+      "avatar": "https://i.pravatar.cc/64?img=9",
+      "published": "2025-07-05",
+      "reading_time": "6 min read",
+      "tags": ["CSS", "Grid", "Flexbox", "Responsive"],
+      "description": "When and why to use CSS Grid or Flexbox in your layouts.",
+      "url": "https://medium.com/@fatimaz/grid-vs-flexbox"
+    },
+    {
+      "id": "10",
+      "title": "Deploy React Apps with Vercel",
+      "author": "Omar Ali",
+      "profile": "https://medium.com/@omarali",
+      "avatar": "https://i.pravatar.cc/64?img=10",
+      "published": "2025-07-06",
+      "reading_time": "4 min read",
+      "tags": ["Deployment", "Vercel", "React"],
+      "description": "Quick deployment of your React apps using Vercel platform.",
+      "url": "https://medium.com/@omarali/deploy-with-vercel"
+    }
+  ]
+}
